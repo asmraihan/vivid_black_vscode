@@ -1,0 +1,31 @@
+{
+  "name": "vivid-black",
+  "displayName": "Vivid black",
+  "description": "Vivid black VS Code Theme",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "publisher": "AsmRaihan",
+  "author": {
+    "name": "Asm Raihan"
+  },
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "vs code vivid black", "dark theme", "dark vivid theme"
+  ],
+  "icon": "vivid.ico",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vivid Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vivid black-color-theme.json"
+      }
+    ]
+  }
+}
