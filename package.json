@@ -1,8 +1,8 @@
 {
   "name": "vivid-black",
-  "displayName": "Vivid black",
+  "displayName": "Vivid Black",
   "description": "Vivid black VS Code Theme",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.0.0"
   },
@@ -11,6 +11,10 @@
     "name": "Asm Raihan"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asmraihan/vivid_black_vscode.git"
+  },
   "homepage": "",
   "keywords": [
     "vs code vivid black", "dark theme", "dark vivid theme"

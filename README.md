@@ -1,14 +1,11 @@
 # Vivid Black Theme 
-## Bright color code with dark background tailored for personal preference.
-
-
+## Bright color code with dark background tailored to personal preference.
+</br>
 <div align="center">
-  <!-- <img alt="html" src="images/html.png" /> -->
   <img alt="html" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/html.png" />
   <img alt="react" src="https://raw.githubusercontent.com/asmraihan/vivid_black_vscode/main/images/react.png" />
 </div>
-
-Find anything missing ? [create Issues](https://github.com/asmraihan/vivid_black_vscode/issues) so that I can make the theme as compatible as possible ! ❤️ ;)
+</br>
 
 ## 🚀 Installation
 
@@ -22,7 +19,7 @@ Find anything missing ? [create Issues](https://github.com/asmraihan/vivid_black
 
 This theme is released under the MIT License.
 
-
+Find anything missing ? [create Issues](https://github.com/asmraihan/vivid_black_vscode/issues) so that I can make the theme as compatible as possible ! ❤️ ;)
 </br>
 Published by 
  <a href="https://github.com/asmraihan/" target="_blank">Raihan</a>
